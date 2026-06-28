@@ -319,8 +319,8 @@ This project is open source and available under the MIT License.
 **Anand B Patil**
 - GitHub: [@Anand-b-patil](https://github.com/Anand-b-patil)
 
-**Sanjay Prakash Chavan**
-- GitHub: https://github.com/sanjaychavan05
+- **Sanjay Prakash Chavan**
+- GitHyb: https://github.com/sanjaychavan05
 
 ## 🙏 Acknowledgments
 
